@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy CB0yatjian
+# 👋 ¡Hola! Soy Cb0yatjian
 
 Bienvenido a mi repositorio central `cb0yatjian`. Este espacio está pensado como un punto de partida y organización para mis distintos proyectos de desarrollo, automatización, paradigmas e inteligencia artificial. Aquí encontrarás enlaces, documentación y referencias útiles para acceder rápidamente a lo que estoy trabajando o voy publicando.
 
